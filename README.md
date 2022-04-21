@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Gaming, python, sql
 - 🌱 I’m currently learning ... Python, VB(ew)
 - 💞️ I’m looking to collaborate on ... Anything. 
-- 📫 How to reach me ... don't test
+- 📫 How to reach me ... don't
 
 <!---
 UKWolfy/UKWolfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
